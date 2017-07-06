@@ -1,4 +1,7 @@
-div{
+html{
+    font-size: 62.5%;
+}
+.c0{
     background-color: yellow;
     padding-top: 30%;
     width: 30%;
@@ -9,11 +12,27 @@ div{
 .c1{
     clear:left;
 }
-#c2{
-    width:100%;
-    background-color: white;
-    padding: 0;
-    float:none;
-    border-radius: 0;
+.clear{
+    clear: both;
 }
+.c2{
+    width:10%;
+    background-color: red;
+    padding-top: 0.250%;
+    padding-left: 0.250%;
+    padding-bottom: 0.250%;
+    float:left ;
+}
+.bt{
+    padding-top: 2.5%;
+    width:79.5%;
+    float:left ;
+    text-align: center;
+    font-size: 5rem;
+    background-color: #ffe426;
+}
+body{
+    margin: 0;
+}
+
 
