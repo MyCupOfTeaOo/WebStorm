@@ -12,5 +12,8 @@ div{
 #c2{
     width:100%;
     background-color: white;
+    padding: 0;
+    float:none;
+    border-radius: 0;
 }
 
